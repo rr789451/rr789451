@@ -26,7 +26,7 @@ I obsess over:
 | **Backend**          | Node.js, Express, REST APIs                                                       |
 | **Mapping & Geo**    | Leaflet.js, ArcPy (in progress), Mapbox, Google Maps API                          |
 | **Tooling**          | Git, VSCode, Postman, Figma (for UX prototyping)                                  |
-| **Infra & Data**     | Firebase, MongoDB, AWS (exploring), CDN behaviors (inspired by Netflix)           |
+| **Infra & Data**     | MongoDB, AWS (exploring), CDN behaviors (inspired by Netflix)           |
 | **UX Philosophy**    | Frictionless transitions, compact toggles, Netflix-inspired UX flows               |
 
 ---
@@ -47,7 +47,7 @@ I obsess over:
 ---
 
 ### 📫 Reach Me
-- 💼 [LinkedIn](#) [LinkedIn](https://www.linkedin.com/in/rohit-reddy-4b9192191/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-reddy-4b9192191/)
 - 📧 [Email](mailto:rr789451@gmail.com)
 
 ---
