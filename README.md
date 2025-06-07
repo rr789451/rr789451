@@ -2,8 +2,6 @@
 
 **Architect of Seamless UX** | Full-Stack Developer | Product-First Thinker
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rr789451&style=flat-square&color=0e75b6)
-
 ---
 
 ### 🚀 About Me
@@ -43,13 +41,13 @@ I obsess over:
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rr789451&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rr789451&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rr789451&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rr789451&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
